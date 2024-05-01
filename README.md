@@ -1,1 +1,3 @@
 # MPSGDreamScanner
+
+## NOT YET FUNCTIONAL
