@@ -1,3 +1,3 @@
 # MPSGDreamScanner
 
-## NOT YET FUNCTIONAL
+## Sunsetting 6/2/25
